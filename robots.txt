@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skstudiobaya.vercel.app/sitemap.xml
